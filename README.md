@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**waltersanchezz/waltersanchezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:computer: Tecnólogo en Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:rocket: Aprendiendo Desarrollo Web
+
+:battery: Propietario de Roda Center
+
+:car: Venta de baterías y rodamientos
+
+:book: Estudiando Git, GitHub y JavaScript
+
+### Vias de contacto
+
+![Website](https://img.shields.io/badge/Roda_Center-UP-green?style=for-the-badge)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/waltersanchezz/waltersanchezz)
+
